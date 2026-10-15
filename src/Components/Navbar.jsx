@@ -7,7 +7,7 @@ function Navbar() {
         <h3 className="logo">Logo</h3>
       <ul>
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/ben">Ben</Link></li>
+        <li><Link to="/login">Login</Link></li>
         <li><Link to="/projects">Projects</Link></li>
         <li><Link to="/about">About</Link></li>
       </ul>
